@@ -10,8 +10,8 @@
 | MAX-M10S-00B-01 | | 1.5m | 20Hz | |  | R$50,97 | 2  | |
 | AK967 (M9N) | | 1.5m | | | | R$46,99 (sem antena) | 1 | |
 | Quectel LC29H(AA) | GPS/ QZSS: L1 C/A, L5 GLONASS: L1 Galileo: E1, E5a BDS: B1I, B2a | 1.0m | 10Hz | | | R$105,70 | 1 | |
-| Allystar TAU1201 | | | | | | | | |
-| Allystar TAU1201 | | | | |  || | |
+|   | | | | | | | | |
+|   | | | | |  || | |
 
 ## To be tested
 | Model | Satelites | CEP | Nav. Update Rate | Description | Chip Base | Price | Qtd | link |
