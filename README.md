@@ -20,3 +20,6 @@
 | Quectel LC29H(DA) |  |  |  | | |  |  | |
 | Quectel LC29H(EA) |  |  |  | | |  |  | |
 | Quectel LC29H(BS) |  |  |  | | |  |  | |
+| Unicore um982 |  |  |  | | |  |  | |
+| Allystar TAU951M |  |  |  | | |  |  | |
+
